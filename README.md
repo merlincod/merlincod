@@ -31,6 +31,6 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion p
 ### 📫 **Me contacter :**
 
 - **Email** : [merlin@merlincode.fr](mailto:merlin@merlincode.Fr)
-- **Portfolio** : [Votre Portfolio en Ligne](https://sub2.merlincode.fr)
+- **Portfolio** : [Mon Portfolio](https://sub2.merlincode.fr)
 
 N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou souhaitez collaborer ! 😊
