@@ -28,6 +28,9 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion p
 - Création de composants réutilisables avec Vue.js
 - Exploration des dernières tendances en développement web
 
+### 📊 **Mes statistiques GitHub :**
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=merlincode&layout=compact&theme=radical)
+
 ### 📫 **Me contacter :**
 
 - **Email** : [merlin@merlincode.fr](mailto:merlin@merlincode.Fr)
