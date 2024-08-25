@@ -29,6 +29,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion p
 - Exploration des dernières tendances en développement web
 
 ### 📊 **Mes statistiques GitHub :**
+![Merlin's Code GitHub Stats](https://github-readme-stats.vercel.app/api?username=merlincode&show_icons=true&theme=radical)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=merlincod&layout=compact&theme=radical)
 
 ### 📫 **Me contacter :**
