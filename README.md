@@ -30,7 +30,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion p
 
 ### 📊 **Mes statistiques GitHub :**
 ![merlincod's Stats](https://github-readme-stats.vercel.app/api?username=merlincod&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-![merlincod's Streak](https://github-readme-streak-stats.herokuapp.com/?user=merlincod&theme=prussian&hide_border=true)
+
 ![merlincod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merlincod&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ### 📫 **Me contacter :**
