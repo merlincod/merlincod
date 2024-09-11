@@ -1,4 +1,4 @@
-<h1># 👋 Bonjour, je suis Merlin's Code !</h1>
+<h1> 👋 Bonjour, je suis Merlin's Code !</h1>
 
 ## 🧑‍💻 Développeur Web Passionné | Front-End & Full-Stack
 
