@@ -17,7 +17,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion p
 
 ### 🛠️ **Technologies que j'utilise :**
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,nodejs,express,mongodb,git,webpack,babel,docker,bash,shell,electron" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,nodejs,express,mongodb,git,webpack,babel,docker,bash,shell,electron,aws" /> </p>
 
 ### 🌟 **En ce moment, je travaille sur :**
 
