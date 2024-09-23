@@ -1,13 +1,13 @@
 <h1> 👋 Bonjour, je suis Merlin's Code !</h1>
 
-## 🧑‍💻 Développeur Web Passionné | Front-End & Full-Stack
+## 🧑‍💻 Développeur Web Passionné | Front-End & Backend
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion pour la création d'interfaces utilisateur élégantes et fonctionnelles. Voici un aperçu de ce que je fais :
 
 ### 🚀 **Ce que je fais :**
 
 - **Développement Front-End** : Création de sites web dynamiques et interactifs avec **Vue.js**, **React**, et **Tailwind CSS**.
-- **Développement Full-Stack** : Conception et gestion de backends robustes avec **Node.js**, **Express**, et **MongoDB**.
+- **Développement Backend** : Conception et gestion de backends robustes avec **Node.js**, **Express**, et **MongoDB**.
 - **Automatisation et Intégration** : Mise en place d'outils pour l'automatisation des tâches et l'intégration continue.
 
 ### 💼 **Projets récents :**
