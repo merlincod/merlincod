@@ -50,10 +50,26 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion p
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="50" height="50"/>
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite3" width="50" height="50"/>
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
   </a>
 </p>
+
 
 ### DevOps & Tools
 <p align="left">
