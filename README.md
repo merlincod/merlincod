@@ -69,9 +69,6 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion p
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
   </a>
-  <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=shell" alt="Shell Scripting" width="50" height="50"/>
-  </a>
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="50" height="50"/>
   </a>
