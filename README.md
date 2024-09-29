@@ -17,56 +17,66 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion p
 
 ## 🛠️ Technologies & Tools I Use
 
+### Frontend
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" height="50"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=shell" alt="Shell Scripting" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="50" height="50"/>
   </a>
 </p>
+
+### Backend
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  </a>
+</p>
+
+### DevOps & Tools
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
+  </a>
+  <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=shell" alt="Shell Scripting" width="50" height="50"/>
+  </a>
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="50" height="50"/>
+  </a>
+</p>
+
 
 
 ### 🌟 **En ce moment, je travaille sur :**
