@@ -15,7 +15,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion p
 - **To-Do List avec Vue.js** : Un gestionnaire de tâches élégant et réactif pour une gestion efficace de vos tâches quotidiennes. [Voir le projet](https://github.com/merlincod/todoapp)
 - **Frontend Starter Kit** :  un kit conçu pour vous aider à démarrer rapidement avec un environnement de développement moderne utilisant Sass et Parcel.  [Voir le projet](https://github.com/merlincod/starterkit)
 
-## 🛠️ Technologies & Tools I Use
+## 🛠️ Technologies & Tools
 
 ### Frontend
 <p align="left">
