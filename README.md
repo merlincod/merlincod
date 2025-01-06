@@ -6,23 +6,24 @@
 
 ---
 
-## 🚀 **Ce que je fais**
+## 🚀 Ce que je fais
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,nodejs,express,mongodb,html,css,js,ts&perline=8" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,nodejs,express,mongodb,html,css,js,ts&perline=8" alt="Compétences"/>
 </div>
 
 <p align="center">
-✨ Création de sites dynamiques et réactifs avec **Vue.js**, **React**, **Tailwind CSS**  
-⚙️ Développement de backends performants et sécurisés avec **Node.js**, **Express**, **MongoDB**  
-🔍 Automatisation et outils d'OSINT avec **Python** et intégrations API avancées  
-💻 Gestion de serveurs et déploiement DevOps pour garantir une infrastructure robuste  
+  ✨ Création de sites dynamiques et réactifs avec **Vue.js**, **React**, **Tailwind CSS**  
+  ⚙️ Développement de backends performants et sécurisés avec **Node.js**, **Express**, **MongoDB**  
+  🔍 Automatisation et outils d'OSINT avec **Python** et intégrations API avancées  
+  💻 Gestion de serveurs et déploiement DevOps pour garantir une infrastructure robuste  
 </p>
 
 ---
 
-## 💼 **Projets récents**
-<p align="center">
+## 💼 Projets récents
+
+<div align="center">
   <a href="https://github.com/merlincod/realtime-chat-app" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20App-Node.js%20%26%20Socket.io-orange?style=for-the-badge&logo=node.js&logoColor=white" alt="Real-Time Chat App"/>
   </a>
@@ -35,11 +36,11 @@
   <a href="https://netflix.merlincode.fr" target="_blank">
     <img src="https://img.shields.io/badge/Merlin's%20Streaming-React%20%26%20Express-green?style=for-the-badge&logo=netflix&logoColor=white" alt="Merlin's Streaming"/>
   </a>
-</p>
+</div>
 
 ---
 
-## 🛠️ **Stack Technique**
+## 🛠️ Stack Technique
 
 ### **Frontend**
 <div align="center">
@@ -63,36 +64,44 @@
 
 ---
 
-## 🌐 **Administration Système**
+## 🌐 Administration Système
+
 <p align="center">
-💾 **Systèmes d'exploitation :** Ubuntu, Debian, CentOS  
-🛡️ **Sécurité :** Pare-feux, configuration SSL, sécurité SSH  
-🚀 **Déploiement :** Docker, Nginx, gestion des domaines avec Cloudflare  
-📦 **Monitoring :** PM2, Grafana, Netdata  
+  💾 **Systèmes d'exploitation :** Ubuntu, Debian, CentOS  
+  🛡️ **Sécurité :** Pare-feux, configuration SSL, sécurité SSH  
+  🚀 **Déploiement :** Docker, Nginx, gestion des domaines avec Cloudflare  
+  📦 **Monitoring :** PM2, Grafana, Netdata  
 </p>
 
 ---
 
-## 🧩 **Autres compétences**
+## 🧩 Autres compétences
+
 - **OSINT :** Automatisation de recherches avancées  
 - **Création de scripts personnalisés :** Python, Bash  
 - **Design System :** Conception UI/UX cohérente avec Tailwind CSS et Figma  
 
 ---
 
-## 📈 **Statistiques GitHub**
-<p align="center">
+## 📈 Statistiques GitHub
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=merlincod&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlincod&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" width="49%"/>
-</p>
+</div>
 
 ---
 
-## 📫 **Me contacter**
-<p align="center">
-  <a href="mailto:merlin@merlincode.fr"><img src="https://img.shields.io/badge/Email-merlin@merlincode.fr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://merlincode.fr"><img src="https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-</p>
+## 📫 Me contacter
+
+<div align="center">
+  <a href="mailto:merlin@merlincode.fr">
+    <img src="https://img.shields.io/badge/Email-merlin@merlincode.fr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://merlincode.fr">
+    <img src="https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 ---
 
