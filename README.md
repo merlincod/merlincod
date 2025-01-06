@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="https://github.com/MerlinsCode/MerlinsCode/blob/main/img/banner.jpg">
+<img align="center" width="1000" src="https://cdn.discordapp.com/banners/1002664211119353867/b48ad263439a4d4270b910fab2dfa7e1.png?size=1024">
 <h1 align="center">Languages | Tools | Systems</h1>
 
 <h4 align="center">🛠️ Skills & Competencies</h4>
