@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="mailto:merlin@merlincode.fr"><img src="https://img.shields.io/badge/Email-merlin@merlincode.fr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://guns.merlincode.fr"><img src="https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://merlincode.fr"><img src="https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
