@@ -1,111 +1,77 @@
-<h1> 👋 Bonjour, je suis Merlin's Code !</h1>
+<h1 align="center">👋 Bonjour, je suis Merlin's Code !</h1>
 
-## 🧑‍💻 Développeur Web Passionné | Front-End & Backend
+<p align="center">🧑‍💻 <b>Développeur Web | Front-End & Backend</b></p>
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur web avec une passion pour la création d'interfaces utilisateur élégantes et fonctionnelles. Voici un aperçu de ce que je fais :
+---
 
-### 🚀 **Ce que je fais :**
+## 🚀 **Ce que je fais**
 
-- **Développement Front-End** : Création de sites web dynamiques et interactifs avec **Vue.js**, **React**, et **Tailwind CSS**.
-- **Développement Backend** : Conception et gestion de backends robustes avec **Node.js**, **Express**, et **MongoDB**.
-- **Automatisation et Intégration** : Mise en place d'outils pour l'automatisation des tâches et l'intégration continue.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,nodejs,express,mongodb&perline=6" alt="Skills"/>
+</div>
 
-### 💼 **Projets récents :**
+<p align="center">
+✨ Création de sites dynamiques avec **Vue.js**, **React** & **Tailwind CSS** <br/>
+⚙️ Backends robustes avec **Node.js**, **Express** & **MongoDB** <br/>
+🤖 Automatisation et intégration d'outils innovants
+</p>
 
-- **To-Do List avec Vue.js** : Un gestionnaire de tâches élégant et réactif pour une gestion efficace de vos tâches quotidiennes. [Voir le projet](https://github.com/merlincod/todoapp)
-- **Frontend Starter Kit** :  un kit conçu pour vous aider à démarrer rapidement avec un environnement de développement moderne utilisant Sass et Parcel.  [Voir le projet](https://github.com/merlincod/starterkit)
+---
 
-## 🛠️ Technologies & Tools
-
-### Frontend
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
+## 💼 **Projets récents**
+<p align="center">
+  <a href="https://github.com/merlincod/todoapp" target="_blank">
+    <img src="https://img.shields.io/badge/To--Do%20App-Vue.js-blue?style=for-the-badge&logo=vue.js&logoColor=white" alt="To-Do App"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="50" height="50"/>
+  <a href="https://github.com/merlincod/starterkit" target="_blank">
+    <img src="https://img.shields.io/badge/Starter%20Kit-Sass%20%26%20Parcel-green?style=for-the-badge&logo=sass&logoColor=white" alt="Starter Kit"/>
   </a>
 </p>
 
-### Backend
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="50" height="50"/>
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite3" width="50" height="50"/>
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
-  </a>
+---
+
+## 🛠️ **Stack Technique**
+
+### Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind&perline=7" alt="Frontend Stack"/>
 </p>
 
-
-### DevOps & Tools
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
-  </a>
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="50" height="50"/>
-  </a>
+### Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,mysql,sqlite,redis&perline=8" alt="Backend Stack"/>
 </p>
 
+### DevOps & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,bash,electron&perline=5" alt="DevOps Tools"/>
+</p>
 
+---
 
-### 🌟 **En ce moment, je travaille sur :**
+## 🌟 **En ce moment, je travaille sur :**
+- Amélioration des performances front-end  
+- Création de composants réutilisables avec Vue.js  
+- Exploration des tendances du web moderne  
 
-- Amélioration de la performance des applications front-end
-- Création de composants réutilisables avec Vue.js
-- Exploration des dernières tendances en développement web
+---
 
-### 📊 **Mes statistiques GitHub :**
-![merlincod's Stats](https://github-readme-stats.vercel.app/api?username=merlincod&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+## 📊 **Statistiques GitHub**
 
-![merlincod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merlincod&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=merlincod&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlincod&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" width="49%"/>
+</p>
 
-### 📫 **Me contacter :**
+---
 
-- **Email** : [merlin@merlincode.fr](mailto:merlin@merlincode.Fr)
-- **Portfolio** : [Mon Portfolio](https://guns.merlincode.fr)
+## 📫 **Me contacter**
 
-N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou souhaitez collaborer ! 😊
+<p align="center">
+  <a href="mailto:merlin@merlincode.fr"><img src="https://img.shields.io/badge/Email-merlin@merlincode.fr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://guns.merlincode.fr"><img src="https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+---
+
+💻 **Explore mes projets et collaborons ensemble !** 😊
