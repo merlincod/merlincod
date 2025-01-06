@@ -12,11 +12,11 @@
   <img src="https://skillicons.dev/icons?i=vue,react,tailwind,nodejs,express,mongodb,html,css,js,ts&perline=8" alt="Compétences"/>
 </div>
 
-<p align="center">
-  ✨ Création de sites dynamiques et réactifs avec **Vue.js**, **React**, **Tailwind CSS**  
-  ⚙️ Développement de backends performants et sécurisés avec **Node.js**, **Express**, **MongoDB**  
-  🔍 Automatisation et outils d'OSINT avec **Python** et intégrations API avancées  
-  💻 Gestion de serveurs et déploiement DevOps pour garantir une infrastructure robuste  
+<p align="center" style="font-size: 1.2rem; max-width: 750px; margin-top: 20px;">
+  ✨ Création de sites dynamiques et réactifs avec <b>Vue.js</b>, <b>React</b>, <b>Tailwind CSS</b><br />
+  ⚙️ Développement de backends performants et sécurisés avec <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b><br />
+  🔍 Automatisation et outils d'OSINT avec <b>Python</b> et intégrations API avancées<br />
+  💻 Gestion de serveurs et déploiement DevOps pour garantir une infrastructure robuste
 </p>
 
 ---
@@ -67,10 +67,10 @@
 ## 🌐 Administration Système
 
 <p align="center">
-  💾 **Systèmes d'exploitation :** Ubuntu, Debian, CentOS  
-  🛡️ **Sécurité :** Pare-feux, configuration SSL, sécurité SSH  
-  🚀 **Déploiement :** Docker, Nginx, gestion des domaines avec Cloudflare  
-  📦 **Monitoring :** PM2, Grafana, Netdata  
+  💾 **Systèmes d'exploitation :** Ubuntu, Debian, CentOS<br />
+  🛡️ **Sécurité :** Pare-feux, configuration SSL, sécurité SSH<br />
+  🚀 **Déploiement :** Docker, Nginx, gestion des domaines avec Cloudflare<br />
+  📦 **Monitoring :** PM2, Grafana, Netdata
 </p>
 
 ---
