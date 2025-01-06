@@ -27,9 +27,6 @@
   <a href="https://github.com/merlincod/realtime-chat-app" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20App-Node.js%20%26%20Socket.io-orange?style=for-the-badge&logo=node.js&logoColor=white" alt="Real-Time Chat App"/>
   </a>
-  <a href="https://github.com/merlincod/spyprint" target="_blank">
-    <img src="https://img.shields.io/badge/SpyPrint-OSINT%20Automation-blue?style=for-the-badge&logo=python&logoColor=white" alt="SpyPrint"/>
-  </a>
   <a href="https://radio.merlincode.fr" target="_blank">
     <img src="https://img.shields.io/badge/Merlin's%20Radio-Online%20Station-red?style=for-the-badge&logo=spotify&logoColor=white" alt="Merlin's Radio"/>
   </a>
