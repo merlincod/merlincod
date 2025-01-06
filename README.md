@@ -36,10 +36,10 @@
 
 <h1 align="center">My Projects</h1>
 <div align="center">
-  <img width="50" align="left" src="https://github.com/MerlinsCode/MerlinsCode/blob/main/img/todo.jpg">
-  <h3><a href="https://github.com/MerlinsCode/todoapp">To-Do List (Vue.js)</a></h3><br>
-  <img width="50" align="left" src="https://github.com/MerlinsCode/MerlinsCode/blob/main/img/spyprint.jpg">
-  <h3><a href="https://github.com/MerlinsCode/spyprint">SpyPrint (OSINT Tool)</a></h3>
+  <img width="50" align="left" src="https://github.com/MerlinsCode/MerlinsCode/blob/main/img/streaming.jpg">
+  <h3><a href="https://netflix.merlincode.fr">Merlin's Streaming</a></h3><br>
+  <img width="50" align="left" src="https://github.com/MerlinsCode/MerlinsCode/blob/main/img/radio.jpg">
+  <h3><a href="https://radio.merlincode.fr">Merlin's Radio</a></h3>
 </div>
 
 <h1 align="center">My Stats</h1>
